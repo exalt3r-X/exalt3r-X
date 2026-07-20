@@ -20,4 +20,9 @@ If you're building **trading / on-chain / voyage / coding agents** and have an o
 - 🧩 [What's missing for your use case?](https://github.com/exalt3r-X/cognitive-passport/issues/1)
 - Settle-probe / format dry-runs with real agent endpoints — open to it.
 
+## Reach me
+
+- 𝕏 [@exalt3r](https://x.com/exalt3r)
+- ✈️ [t.me/pavelvladykin](https://t.me/pavelvladykin)
+
 *Blunt is better than polite.*
